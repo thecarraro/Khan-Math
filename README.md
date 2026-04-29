@@ -1,2 +1,2 @@
 # Khan-Math
-Plataforma de Ensino e aprendizagem de matemática: conteúdo de funções e teoria de conjuntos
+Plataforma educacional com recurso didático para ensino e aprendizagem de matemática no 1°ano do ensino médio- estudo teoria de conjuntos e funções.
